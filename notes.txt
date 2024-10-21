@@ -1,0 +1,10 @@
+Del lado del servidor - obtener los datos
+las peticiones del dalo del servidor 
+los metodos get se hacen del server y los demas se hacen desde el cliente
+
+ppio de responsabilidad unica: tipo de programación imperativa 
+las peticiones http
+
+
+un componente server puede llamar a un componente cliente 
+pero un componente cliente no puede llamar a componente server 
